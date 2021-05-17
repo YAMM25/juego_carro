@@ -1,0 +1,64 @@
+Primer puesto: carro 1
+Segundo puesto: carro 1
+Tercer puesto: carro 2
+
+
+Primer puesto: carro 1
+Segundo puesto: carro 1
+Tercer puesto: carro 2
+
+
+Primer puesto: carro 1
+Segundo puesto: carro 1
+Tercer puesto: carro 2
+
+
+Primer puesto: carro 3
+Segundo puesto: carro 4
+
+
+Primer puesto: carro 1
+Segundo puesto: carro 1
+Tercer puesto: carro 2
+
+
+Primer puesto: carro 2
+Segundo puesto: carro 1
+Tercer puesto: carro 2
+
+
+Primer puesto: carro 1
+Segundo puesto: carro 2
+Tercer puesto: carro 1
+
+
+Primer puesto: carro 3
+Segundo puesto: carro 3
+Tercer puesto: carro 4
+
+
+Primer puesto: carro 2
+Segundo puesto: carro 3
+
+
+Primer puesto: carro 1
+Segundo puesto: carro 1
+Tercer puesto: carro 1
+Primer puesto: carro 2
+Segundo puesto: carro 2
+Tercer puesto: carro 2
+Primer puesto: carro 3
+Segundo puesto: carro 1
+Tercer puesto: carro 3
+
+
+Primer puesto: carro 1
+Segundo puesto: carro 2
+Tercer puesto: carro 1
+
+
+Primer puesto: carro 2
+Segundo puesto: carro 2
+Tercer puesto: carro 2
+
+
