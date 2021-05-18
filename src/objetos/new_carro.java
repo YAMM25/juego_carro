@@ -1,17 +1,15 @@
 
 package objetos;
 
-/**
- *
- * @author YAMMOK
- */
+
 public class new_carro {
       int numeroCarro;
-//hola
+      
+    //Inicialializando variables
     public new_carro() {
         this.numeroCarro = -1;
     }
-    //hola
+    //asignando valor
     public new_carro(int numero) {
         this.numeroCarro = numero;
     }
@@ -24,6 +22,7 @@ public class new_carro {
         this.numeroCarro = numeroCarro;
     }
     
+    //método para lanzar dado y avance del carro
     public int avanzar(){
         int dado = (int)(Math.random()*6+1);
         int avenceCarro = dado*100;
