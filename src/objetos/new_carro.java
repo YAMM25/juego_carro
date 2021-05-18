@@ -7,7 +7,7 @@ package objetos;
  */
 public class new_carro {
       int numeroCarro;
-
+//hola
     public new_carro() {
         this.numeroCarro = -1;
     }
