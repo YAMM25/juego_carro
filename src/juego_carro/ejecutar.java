@@ -81,7 +81,7 @@ public class ejecutar {
 
                     }
                     //
-                    System.out.println("\nConductore y Posiciones listas\n");
+                    System.out.println("\nConductores y Posiciones listas\n");
                     System.out.println("================================================================");
                     conductor_carro.asociarConductorCarro(listaJugadores);
                     System.out.println("================================================================");
